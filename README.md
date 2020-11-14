@@ -1,4 +1,3 @@
-# tensorflow_bignner
 # Welcome to the tensorflow2_beginner!
 Are you new to deep learning? Do you want to learn deep learning techniques with one of the most popular frameworks? If you are eager to quickly learn how to use tensorflow2 (TF2) to train deep learning models to solve your real world problems. Don't miss our course of TF2 for beginners. 
 
